@@ -1,4 +1,4 @@
-# Nelson Lemmy
+# Nelson Lemein
 
 > Founder & CEO at [KEPAS TECHNOLOGIES](https://kepas.co.ke). Engineer first, executive second. I build distributed systems for African fintech and SaaS — code that has to be right because the money is real.
 
@@ -31,7 +31,7 @@ A working 1.0 ships before a buggy 2.0. Optimization, architecture, latency — 
 
 ## Stack I lean on
 
-`Node.js` · `PostgreSQL` · `Redis` · `Docker` · `Daraja API (M-Pesa)` · `React` · `Vite` · `Express` · `TypeScript` · `Dart/Flutter` · `Bash` · `Cloudflare Tunnels`
+`Node.js` · `PostgreSQL` · `Redis` · `Docker` · `KAFKA` · `Daraja API (M-Pesa)` · `React` · `Vite` · `Express` · `TypeScript` · `Dart/Flutter` · `Bash` · `Curl` · `Cloudflare Tunnels` · `HTML` · `CSS` · `Next JS` · `Bun` · `Python` · `Go` · `Rust` 
 
 ## Contact
 
