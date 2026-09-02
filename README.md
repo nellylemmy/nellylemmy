@@ -36,5 +36,5 @@ A working 1.0 ships before a buggy 2.0. Optimization, architecture, latency — 
 ## Contact
 
 - Web — [kepas.co.ke](https://kepas.co.ke)
-- Mail — `nelsonlemmy61@gmail.com`
+- Mail — `nelson@kepas.co.ke`
 - Status — Open to deep infrastructure work, fintech architecture reviews, and Daraja integration consulting.
