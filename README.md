@@ -13,7 +13,7 @@
 | **KEPAS Pay** | M-Pesa payment gateway powering every KEPAS product (single Daraja registration, multi-tenant, double-entry ledger, auto-sweep platform fees, in-app reversal flow that mirrors Safaricom's customer-care model) | Node.js · Express · PostgreSQL · Redis · Docker |
 | **Tumakesh** | Consumer wallet on top of KEPAS Pay — send/receive money, P2P transfers, reversal request flow with 60-minute server-enforced eligibility window | React · Vite · TanStack Query · PostgreSQL |
 | **Wabi** | Real-time messaging gateway with end-to-end delivery guarantees | Node.js · Dart (Flutter) · Redis |
-| **Sinro IDE** | An opinionated multi-agent coding environment | TypeScript |
+| **Sinro IDE** | Agentic coding environment | TypeScript |
 
 A working 1.0 ships before a buggy 2.0. Optimization, architecture, latency — in that order.
 
