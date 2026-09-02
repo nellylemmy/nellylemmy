@@ -24,8 +24,8 @@ A working 1.0 ships before a buggy 2.0. Optimization, architecture, latency — 
 
 ## How I work
 
-- **Technical Truth over marketing fluff** — I'll explain the latency before I explain the value prop.
-- **Roadmap discipline** — Q3 means Q3. Vaporware is a moral failure.
+- **Technical Truth over marketing** — I'll explain the latency before I explain the value prop.
+- **Roadmap discipline** — Q3 means Q3.
 - **80/20 on performance** — 20% of the code drives 80% of the cost; I optimize that and ignore the rest.
 - **Calm in crisis** — apologies come in the form of a root-cause analysis, not an adjective.
 
