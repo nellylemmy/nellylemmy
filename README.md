@@ -2,7 +2,7 @@
 
 > Founder & CEO at [KEPAS TECHNOLOGIES](https://kepas.co.ke). Engineer first, executive second. I build distributed systems for African fintech and SaaS — code that has to be right because the money is real.
 
-<sub>Nairobi, Kenya · Available for technical advisory and infrastructure-heavy contracts</sub>
+<sub>Loitokitok, Kajiado County, Kenya · Available for technical advisory and infrastructure-heavy contracts</sub>
 
 ---
 
@@ -32,6 +32,10 @@ A working 1.0 ships before a buggy 2.0. Optimization, architecture, latency — 
 ## Stack I lean on
 
 `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `KAFKA` · `Daraja API (M-Pesa)` · `React` · `Vite` · `Express` · `TypeScript` · `Dart/Flutter` · `Bash` · `Curl` · `Cloudflare Tunnels` · `HTML` · `CSS` · `Next JS` · `Bun` · `Python` · `Go` · `Rust` 
+
+## About KEPAS
+
+KEPAS (Kenya Professionals in Application Solutions), also known as KEPAS Technologies, is a registered Kenyan software company (Business No. BN-KYCRJ5VG) in Loitokitok, Kajiado County, founded by Nelson Lemein. We build websites, mobile apps, and M-Pesa integrations for schools, hospitals, NGOs, and government offices; run KodiSap, WABI, and enabos; and maintain free tools and the open-source @kepas/daraja-js M-Pesa SDK. https://kepas.co.ke
 
 ## Contact
 
